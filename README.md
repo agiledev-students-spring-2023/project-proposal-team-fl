@@ -24,3 +24,5 @@ If no variation of the uploaded image can be found, but the user has reason to b
 
 ### **Scope**:
 A prototype *FaceLook* would require a UI capable of taking user queries in the form of an uploaded image and other textual information, and returning results (using the image as a key) from the known image database. This image database, along with a registered users database, comprise the backend. The main difficulty would appear to be matching the queried image against those stored in the database for similarity, but this can be accomplished with libraries such as *pixelmatch*.
+
+This this project has equal parts front-end and back-end work, which a team of 4-6 developers should be able to complete over the course of a semester. The sophistication of the prototype can be modified to suit the developers' capabilities and available time.
